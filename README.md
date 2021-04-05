@@ -12,3 +12,4 @@
 - Then the scraped data was preprocessed and labelling of each poem has been done manually. Label 1 for Sukanta Bhattacharya, Label 2 for Rabindranath Tagore, Label 3 for Kazi Nazrul Islam
 
 
+### Feel free to contibute... and give it a star if you like the repo.
